@@ -1,0 +1,78 @@
+about:
+  name: Skye Miller
+  tagline: Enterprise Information System Specialist
+  phone: "619-817-9222"
+  email: skyemiller@gmail.com
+  links:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/skye-miller000/
+      icon: fab fa-linkedin
+    - title: SkyeMill
+      url: https://github.com/SkyeMill
+      icon: fab fa-github
+  details: |
+    I am an Enterprise Information Systems professional that cares deeply about the problems of data availability and meaningfulness in an
+    organization. I bring people and process together by being an empathetic facilitator who leverages the unique skills-sets of a team.
+
+
+skills:
+  - groupName: Databases & Visualization
+    list:
+      - PowerBI
+      - Tableau
+      - Oracle SQL
+      - MySQL
+      - PostgreSQL
+      - InfluxDB
+
+  - groupName: Data Analysis & Analytics
+    list:
+      - Python
+      - SQL
+      - Excel
+      - Pandas
+      - PyTorch
+
+  - groupName: Programming & Systems
+    list:
+      - Git
+      - Docker
+      - Linux
+      - PowerShell
+      - Bash
+
+interests:
+  - Data Science
+  - AI Applications
+  - Optimization Problems
+
+
+
+# This will use the default widget: "details-list"
+awards:
+#   - title: "Tübitak - Graduation Project"
+#     date: "2017"
+#     subtitle: "A Decision Support System for 3D Cutting Problem"
+#     #details: |
+#     #   - add more here if you like to.
+#     #   - or just comment out/delete the field.
+#     links:
+#       - title: example
+#         url: https://mertbakir.gitlab.io
+#         icon: fas fa-bolt
+#         prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+#       - title: second link.
+#         url: https://esdfdsfdsf
+#         icon: "-" # you can get rid of the icon by entering dummy text
+#         prefix: "omg"
+
+certificates:
+#   - title: "Supervised Learning: Regression"
+#     subtitle: Coursera
+#     date: "2020"
+#     link: https://xkcd.com/605/ # This link will be on title level.
+
+#   - title: "Supervised Learning: Classification"
+#     subtitle: Coursera
+#     date: "2020"
+#     link: https://xkcd.com/388/

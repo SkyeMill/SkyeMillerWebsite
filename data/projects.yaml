@@ -1,0 +1,16 @@
+projects:
+  - title: "ERP Implementation Audit Project"
+    subtitle: "University of Arizona"
+    date: "Aug 2024 - Dec 2024"
+    details: |
+      - Investigated underlying causes of the University's ERP implementation pause through SOW analysis, stakeholder interviews, and requirements gathering.
+      - Presented a comprehensive report to the University CISO, detailing critical issues and providing actionable recommendations.
+      - Utilized Python to extract, transform, and load 720,000 traffic incidents into PowerBI and Tableau for analysis and visualization.
+      - Improved data quality by converting complex spatial data into practical, user-friendly formats.
+      - Spearheaded team project management to enable project turnaround in under 36 hours.
+  
+  - title: "Data Analytics Challenge"
+    subtitle: "Team Lead"
+    date: "Aug 2024 - Aug 2024"
+    details: |
+      Led a team project involving data analysis and visualization using Oracle SQL, Pandas, Python, PowerBI, and Tableau.

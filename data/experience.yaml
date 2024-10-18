@@ -1,0 +1,46 @@
+- company: TruAdvocates Consulting
+  roles:
+    - role: Information Systems Analyst (Part-Time)
+      details: |
+        - Tested multiple software package combinations using data flow diagrams for seamless workflow integration in vendors' operations, including project management tools, cloud storage, and collaboration suites.
+        - Streamlined accounting business processes with low-code automation, saving 120 hours annually.
+        - Researched and delivered a 5-year business plan, including industry competitors with Tableau visualizations.
+        - Engaged in support testing to close ServiceNow tickets for Workday Finance implementation issues.
+      date: 09.2019 - 08.2024
+
+- company: International Mission Board
+  roles:
+    - role: HR Information System Data Analyst
+      details: |
+        - Leveraged requirement collection skills to reconcile live ERP data with external relational databases using advanced SQL querying.
+        - Integrated external applications with Azure Cloud, impacting cost savings by over $110,000.
+        - Communicated with stakeholders to design business processes which integrated external and live Workday data, ensuring accurate updates to employee information through EIBs, reducing update times by 2 days.
+        - Orchestrated the visualizations of 70,000 Business objects in a data warehouse using Native PowerBI querying and logic modeling to solve complex business problems.
+        - Fostered seamless collaboration with international teams from over 12 countries, employing exceptional communication skills to bridge gaps and ensure project success.
+      date: 05.2022 - 08.2022
+
+- company: University of Arizona Office of Budgeting & Planning
+  roles:
+    - role: Student Budget Analyst
+      details: |
+        - Extracted and analyzed report data from Oracle Cloud to diagnose and report over 80 budget system errors.
+        - Designed analytics reports pulling from over 15 sources in Oracle Financials for the University’s annual budget document.
+      date: 05.2021 - 02.2022
+
+- company: University of Arizona
+  roles:
+    - role: Team Member | ERP Implementation Audit Project
+      details: |
+        - Investigated underlying causes of the University's ERP implementation pause through SOW analysis, stakeholder interviews, and requirements gathering.
+        - Presented a comprehensive report to the University CISO, detailing critical issues and providing actionable recommendations.
+        - Utilized Python to extract, transform, and load 720,000 traffic incidents into PowerBI and Tableau for analysis and visualization.
+        - Improved data quality by converting complex spatial data into practical, user-friendly formats.
+        - Spearheaded team project management to enable project turnaround in under 36 hours.
+      date: 08.2024 - 05.2025
+
+- company: University of Arizona
+  roles:
+    - role: Team Lead | Data Analytics Challenge
+      details: |
+        - Led a team project involving data analysis and visualization using Oracle SQL, Pandas, Python, PowerBI, and Tableau.
+      date: 08.2021 - 05.2024
